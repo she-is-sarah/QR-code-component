@@ -26,8 +26,8 @@ A simple and responsive QR code component that centers a card containing a QR co
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/she-is-sarah/qr-code-component]
+- Live Site URL: [https://she-is-sarah.github.io/qr-code-component/]
 
 ## My Process
 
