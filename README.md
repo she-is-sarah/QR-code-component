@@ -20,8 +20,9 @@ A simple and responsive QR code component that centers a card containing a QR co
 
 ### Screenshot
 
-./img/desktopshot.png
-./img/mobileshot.png
+![desktopview](./img/desktopshot.png)
+![mobileview](./img/mobileshot.png)
+
 
 ### Links
 
